@@ -1152,22 +1152,21 @@ Too many agents: https://playit.gg/account/agents
 TUNNELS
 city-tower.gl.at.ply.gg:4680 => 127.0.0.1:19132 (minecraft-bedrock)
 who-address.gl.at.ply.gg:59251 => 127.0.0.1:25565 (proto: Both, port count: 1)
-51 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720613477452 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720613693016 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
+city-tower.gl.at.ply.gg:4680 => 127.0.0.1:19132 (minecraft-bedrock)
 who-address.gl.at.ply.gg:59251 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720613480590 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720613696151 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
 TUNNELS
+city-tower.gl.at.ply.gg:4680 => 127.0.0.1:19132 (minecraft-bedrock)
 who-address.gl.at.ply.gg:59251 => 127.0.0.1:25565 (proto: Both, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720613483706 tunnel running, 1 tunnels registered
-
-Too many agents: https://playit.gg/account/agents
+many agents: https://playit.gg/account/agents
 
 TUNNELS
 who-address.gl.at.ply.gg:59251 => 127.0.0.1:25565 (proto: Both, port count: 1)
@@ -1575,6 +1574,20 @@ TUNNELS
 city-tower.gl.at.ply.gg:4680 => 127.0.0.1:19132 (minecraft-bedrock)
 who-address.gl.at.ply.gg:59251 => 127.0.0.1:25565 (proto: Both, port count: 1)
 [2J8[0mplayit (v0.15.13): 1720613689920 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+city-tower.gl.at.ply.gg:4680 => 127.0.0.1:19132 (minecraft-bedrock)
+who-address.gl.at.ply.gg:59251 => 127.0.0.1:25565 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720613693033 tunnel running, 2 tunnels registered
+
+Too many agents: https://playit.gg/account/agents
+
+TUNNELS
+city-tower.gl.at.ply.gg:4680 => 127.0.0.1:19132 (minecraft-bedrock)
+who-address.gl.at.ply.gg:59251 => 127.0.0.1:25565 (proto: Both, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720613696134 tunnel running, 2 tunnels registered
 
 Too many agents: https://playit.gg/account/agents
 
