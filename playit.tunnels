@@ -9,51 +9,51 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "iraq-imagination.gl.joinmc.link",
-          "assigned_srv": "iraq-imagination.gl.joinmc.link",
+          "assigned_domain": "who-address.gl.at.ply.gg",
+          "assigned_srv": null,
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "c66d9da4-31e3-4f2b-abce-1dd9b3e1f083",
-          "ip_hostname": "21.ip.gl.ply.gg",
+          "id": "f99a7748-4100-4969-81c2-f7564aa44411",
+          "ip_hostname": "20.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 5735,
-          "port_start": 5734,
+          "port_end": 59252,
+          "port_start": 59251,
           "region": "global",
-          "static_ip4": "147.185.221.21",
-          "tunnel_ip": "2602:fbaf:0:1::15"
+          "static_ip4": "147.185.221.20",
+          "tunnel_ip": "2602:fbaf:0:1::14"
         },
         "status": "allocated"
       },
-      "created_at": "2024-07-10T09:31:57.835077Z",
+      "created_at": "2024-07-10T12:04:17.812466Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "064e60a2-7045-44c7-9582-e24cf220896f",
-      "name": "Minecraft Java",
+      "id": "22f0caa9-262f-4103-8f48-012b56ef200e",
+      "name": "unnamed",
       "origin": {
         "data": {
-          "agent_id": "6fd5d949-92db-465b-9058-bcd1360e4d71",
-          "agent_name": "from-key-9b18",
+          "agent_id": "c2bef6ac-4273-488d-9bb1-56f4e48b1a96",
+          "agent_name": "from-key-9534",
           "local_ip": "127.0.0.1",
           "local_port": 25565
         },
         "type": "agent"
       },
       "port_count": 1,
-      "port_type": "tcp",
+      "port_type": "both",
       "ratelimit": {
         "bytes_per_second": null,
         "packets_per_second": null
       },
       "region": "global",
-      "tunnel_type": "minecraft-java"
+      "tunnel_type": null
     }
   ],
   "udp_alloc": {
     "allowed": 6,
-    "claimed": 0,
-    "desired": 0
+    "claimed": 1,
+    "desired": 1
   }
 }
