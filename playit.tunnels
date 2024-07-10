@@ -49,11 +49,56 @@
       },
       "region": "global",
       "tunnel_type": null
+    },
+    {
+      "active": true,
+      "alloc": {
+        "data": {
+          "assigned_domain": "city-tower.gl.at.ply.gg",
+          "assigned_srv": null,
+          "assignment": {
+            "type": "shared-ip"
+          },
+          "id": "582643a9-9461-4b5f-88cf-31b56881826d",
+          "ip_hostname": "20.ip.gl.ply.gg",
+          "ip_type": "both",
+          "port_end": 4681,
+          "port_start": 4680,
+          "region": "global",
+          "static_ip4": "147.185.221.20",
+          "tunnel_ip": "2602:fbaf:0:1::14"
+        },
+        "status": "allocated"
+      },
+      "created_at": "2024-07-10T12:14:08.378991Z",
+      "disabled_reason": null,
+      "domain": null,
+      "expire_notice": null,
+      "firewall_id": null,
+      "id": "f7190365-2ad3-4362-9f5e-0f565114e4be",
+      "name": "Minecraft Bedrock",
+      "origin": {
+        "data": {
+          "agent_id": "c2bef6ac-4273-488d-9bb1-56f4e48b1a96",
+          "agent_name": "from-key-9534",
+          "local_ip": "127.0.0.1",
+          "local_port": 4680
+        },
+        "type": "agent"
+      },
+      "port_count": 1,
+      "port_type": "udp",
+      "ratelimit": {
+        "bytes_per_second": null,
+        "packets_per_second": null
+      },
+      "region": "global",
+      "tunnel_type": "minecraft-bedrock"
     }
   ],
   "udp_alloc": {
     "allowed": 6,
-    "claimed": 1,
-    "desired": 1
+    "claimed": 2,
+    "desired": 2
   }
 }
